@@ -1,0 +1,3 @@
+Host 157.253.72.13
+    KexAlgorithms +diffie-hellman-group1-sha1
+
